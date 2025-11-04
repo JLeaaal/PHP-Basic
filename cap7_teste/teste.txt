@@ -1,0 +1,3 @@
+julia;ADS;1;B;6;7.5
+maria;EDS;7;A;9;4
+carlos;ADM;3;A;5;8.5
